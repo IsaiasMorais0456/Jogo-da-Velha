@@ -1,0 +1,29 @@
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Jogo da Velha\JogoDaVelha\bin\Debug\net9.0\JogoDaVelha.exe
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Jogo da Velha\JogoDaVelha\bin\Debug\net9.0\JogoDaVelha.deps.json
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Jogo da Velha\JogoDaVelha\bin\Debug\net9.0\JogoDaVelha.runtimeconfig.json
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Jogo da Velha\JogoDaVelha\bin\Debug\net9.0\JogoDaVelha.dll
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Jogo da Velha\JogoDaVelha\bin\Debug\net9.0\JogoDaVelha.pdb
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Jogo da Velha\JogoDaVelha\obj\Debug\net9.0\JogoDaVelha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Jogo da Velha\JogoDaVelha\obj\Debug\net9.0\JogoDaVelha.AssemblyInfoInputs.cache
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Jogo da Velha\JogoDaVelha\obj\Debug\net9.0\JogoDaVelha.AssemblyInfo.cs
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Jogo da Velha\JogoDaVelha\obj\Debug\net9.0\JogoDaVelha.csproj.CoreCompileInputs.cache
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Jogo da Velha\JogoDaVelha\obj\Debug\net9.0\JogoDaVelha.sourcelink.json
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Jogo da Velha\JogoDaVelha\obj\Debug\net9.0\JogoDaVelha.dll
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Jogo da Velha\JogoDaVelha\obj\Debug\net9.0\refint\JogoDaVelha.dll
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Jogo da Velha\JogoDaVelha\obj\Debug\net9.0\JogoDaVelha.pdb
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Jogo da Velha\JogoDaVelha\obj\Debug\net9.0\JogoDaVelha.genruntimeconfig.cache
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\Estrutura de Dados I\Atividades\Jogo da Velha\JogoDaVelha\obj\Debug\net9.0\ref\JogoDaVelha.dll
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\JogoDaVelha\bin\Debug\net9.0\JogoDaVelha.exe
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\JogoDaVelha\bin\Debug\net9.0\JogoDaVelha.deps.json
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\JogoDaVelha\bin\Debug\net9.0\JogoDaVelha.runtimeconfig.json
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\JogoDaVelha\bin\Debug\net9.0\JogoDaVelha.dll
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\JogoDaVelha\bin\Debug\net9.0\JogoDaVelha.pdb
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\JogoDaVelha\obj\Debug\net9.0\JogoDaVelha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\JogoDaVelha\obj\Debug\net9.0\JogoDaVelha.AssemblyInfoInputs.cache
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\JogoDaVelha\obj\Debug\net9.0\JogoDaVelha.AssemblyInfo.cs
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\JogoDaVelha\obj\Debug\net9.0\JogoDaVelha.csproj.CoreCompileInputs.cache
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\JogoDaVelha\obj\Debug\net9.0\JogoDaVelha.dll
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\JogoDaVelha\obj\Debug\net9.0\refint\JogoDaVelha.dll
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\JogoDaVelha\obj\Debug\net9.0\JogoDaVelha.pdb
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\JogoDaVelha\obj\Debug\net9.0\JogoDaVelha.genruntimeconfig.cache
+C:\Users\isaia\Desktop\Ciencias da Computação\Fase II\JogoDaVelha\obj\Debug\net9.0\ref\JogoDaVelha.dll
