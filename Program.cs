@@ -1,4 +1,6 @@
-﻿using System;
+// Feito por Isaias Morais e Maikelen Pasquali (user: Maiih)
+
+using System;
 
 class Program
 {
